@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+
+button {
+  background: blueviolet;
+  display: flex;
+  width: 10%;
+  align-items: center;
+  text-align: center;
+  gap: 0.4rem;
+  border-radius: 5px;
+  color: aqua;
+  line-height: 0;
+}
+
+button img {
+  height: 2rem;
+  width: 2rem
+  
+}

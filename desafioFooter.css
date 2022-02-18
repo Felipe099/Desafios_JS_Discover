@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+}
+
+footer {
+  margin-top: auto;
+
+  background: black;
+  color: blueviolet;
+
+  height: 8rem;
+  flex: 1;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
